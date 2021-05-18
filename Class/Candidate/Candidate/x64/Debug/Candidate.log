@@ -1,0 +1,22 @@
+﻿  Candidate.cpp
+C:\Users\XuanTu\Desktop\WorkSpace\oop\source\Class\Candidate\Candidate\Candidate.h(8,9): error C3646: 'ten': unknown override specifier
+C:\Users\XuanTu\Desktop\WorkSpace\oop\source\Class\Candidate\Candidate\Candidate.h(8,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\XuanTu\Desktop\WorkSpace\oop\source\Class\Candidate\Candidate\Candidate.h(9,9): error C3646: 'ngaySinh': unknown override specifier
+C:\Users\XuanTu\Desktop\WorkSpace\oop\source\Class\Candidate\Candidate\Candidate.h(9,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\XuanTu\Desktop\WorkSpace\oop\source\Class\Candidate\Candidate\Candidate.cpp(8,2): error C2065: 'ten': undeclared identifier
+C:\Users\XuanTu\Desktop\WorkSpace\oop\source\Class\Candidate\Candidate\Candidate.cpp(9,2): error C2065: 'ngaySinh': undeclared identifier
+C:\Users\XuanTu\Desktop\WorkSpace\oop\source\Class\Candidate\Candidate\Candidate.cpp(20,15): error C2065: 'ten': undeclared identifier
+C:\Users\XuanTu\Desktop\WorkSpace\oop\source\Class\Candidate\Candidate\Candidate.cpp(23,20): error C2065: 'ngaySinh': undeclared identifier
+C:\Users\XuanTu\Desktop\WorkSpace\oop\source\Class\Candidate\Candidate\Candidate.cpp(36,39): error C2065: 'ten': undeclared identifier
+C:\Users\XuanTu\Desktop\WorkSpace\oop\source\Class\Candidate\Candidate\Candidate.cpp(38,54): error C2065: 'ngaySinh': undeclared identifier
+  Source.cpp
+C:\Users\XuanTu\Desktop\WorkSpace\oop\source\Class\Candidate\Candidate\Candidate.h(8,9): error C3646: 'ten': unknown override specifier
+C:\Users\XuanTu\Desktop\WorkSpace\oop\source\Class\Candidate\Candidate\Candidate.h(8,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\XuanTu\Desktop\WorkSpace\oop\source\Class\Candidate\Candidate\Candidate.h(9,9): error C3646: 'ngaySinh': unknown override specifier
+C:\Users\XuanTu\Desktop\WorkSpace\oop\source\Class\Candidate\Candidate\Candidate.h(9,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  TestCandidate.cpp
+C:\Users\XuanTu\Desktop\WorkSpace\oop\source\Class\Candidate\Candidate\Candidate.h(8,9): error C3646: 'ten': unknown override specifier
+C:\Users\XuanTu\Desktop\WorkSpace\oop\source\Class\Candidate\Candidate\Candidate.h(8,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\XuanTu\Desktop\WorkSpace\oop\source\Class\Candidate\Candidate\Candidate.h(9,9): error C3646: 'ngaySinh': unknown override specifier
+C:\Users\XuanTu\Desktop\WorkSpace\oop\source\Class\Candidate\Candidate\Candidate.h(9,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Generating Code...

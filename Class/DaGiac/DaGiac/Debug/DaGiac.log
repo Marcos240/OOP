@@ -1,0 +1,4 @@
+﻿  DaGiac.cpp
+C:\Users\XuanTu\Desktop\WorkSpace\oop\source\Class\DaGiac\DaGiac\DaGiac.cpp(46,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\XuanTu\Desktop\WorkSpace\oop\source\Class\DaGiac\DaGiac\DaGiac.cpp(47,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  DaGiac.vcxproj -> C:\Users\XuanTu\Desktop\WorkSpace\oop\source\Class\DaGiac\Debug\DaGiac.exe
